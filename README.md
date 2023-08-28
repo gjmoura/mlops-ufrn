@@ -8,4 +8,7 @@
     - [X] 🚀 Instant Coding with Codespaces
     - [X] 📖 Learning Resources
     - [X] 🎯 Create codespaces project
+
+  - Semana 2
+    - [ ] 🚧 WIP 🚧
 j
